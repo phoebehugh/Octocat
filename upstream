@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+When you make changes, you usually want to send them "upstream" so that they make it into the repository, so that everyone pulling from the same source is working with all the same changes.
